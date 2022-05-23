@@ -1,0 +1,2 @@
+# Abstraktsiya
+abstraktsiya misollar
